@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ThomasStojanov
+- 👋 Hi, I’m @ThomasStojanov.
 - 👀 I’m interested in Biostatistics, Epidemiology and Data Science.
-- 🌱 I’m currently learning R and Python
+- 🌱 I’m currently learning R and Python.
 - 📫 How to reach me: thomas.stojanov@usb.ch
 
 <!---
